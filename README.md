@@ -1,1 +1,2 @@
-# NeoLearn-AR-based-Learning-Platform
+# NeoLearn AR based Learning Platform
+Developer :- Om Patil
